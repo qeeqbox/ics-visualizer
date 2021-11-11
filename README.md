@@ -18,6 +18,9 @@ ICS-Visualizer is an interactive Industrial Control Systems (ICS) network graph 
 - Search function (Target item will be highlighted)
 - Zoom-in, zoom-out & reset options
 
+## Notes
+- ICS metadata db was compiled using my previous experience with ICS and a lot of great external articles\\researches\\projects (Do not forget to check them out!)
+
 ## Resources
 d3js.org wikipedia wireshark nmap and more
 
