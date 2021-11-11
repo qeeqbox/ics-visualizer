@@ -3,7 +3,7 @@
 #
 [![Generic badge](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/qeeqbox/ics-visualizer/main/info&label=version&query=$.version&colorB=blue&style=flat-square)](https://github.com/qeeqbox/ics-visualizer/blob/main/changes.md)  [![Generic badge](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/qeeqbox/ics-visualizer/main/info&label=build&query=$.dockercomposebuild&colorB=green&style=flat-square)](https://github.com/qeeqbox/ics-visualizer/blob/main/changes.md) [![Generic badge](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/qeeqbox/ics-visualizer/main/info&label=test&query=$.automatedtest&colorB=green&style=flat-square)](https://github.com/qeeqbox/ics-visualizer/blob/main/changes.md) [![Generic badge](https://img.shields.io/static/v1?label=%F0%9F%91%8D&message=!&color=yellow&style=flat-square)](https://github.com/qeeqbox/ics-visualizer/stargazers)
 
-ICS-Visualizer is an interactive Industrial Control Systems (ICS) network graph that contains up-to-date ICS metadata (Name, company, port, user manuals and links)
+ICS-Visualizer is an interactive Industrial Control Systems (ICS) network graph that contains up-to-date ICS metadata (Name, company, port, user manuals, external links, and mapped wireshark\namp modules and scripts). 
 
 ## Interface
 <img src="https://raw.githubusercontent.com/qeeqbox/ics-visualizer/main/readme/intro.gif" style="max-width:768px"/>
@@ -13,6 +13,7 @@ ICS-Visualizer is an interactive Industrial Control Systems (ICS) network graph 
 
 ## Features
 - ICS metadata (Name, company, port and info)
+- Mapped Wireshark and NMAP modules\scripts
 - External links to great ICS resources (Articles, manuals and projects)
 - Optimized canvas (Fast interaction)
 - Search function (Target item will be highlighted)
