@@ -12,7 +12,7 @@ ICS-Visualizer is an interactive Industrial Control Systems (ICS) network graph 
 [https://qeeqbox.github.io/ics-visualizer/](https://qeeqbox.github.io/ics-visualizer/)
 
 ## Features
-- ICS metadata (Name, company, port and info)
+- Automation protocols metadata (Name, company, port and info)
 - Mapped Wireshark and NMAP modules\scripts
 - External links to great ICS resources (Articles, manuals and projects)
 - Optimized canvas (Fast interaction)
